@@ -6,12 +6,24 @@
 
 ---
 
-### 🚀 Live Projects
+## 🚀 Featured Projects
 
-| Project | Description | Live |
-|--------|------------|------|
-| Tech Blog | Personal blogging website | Netlify |
-| College Chatbot | Student Q&A system | In Progress |
+### 📰 Tech Blog Website
+🔗 Live: (Netlify Hosted)  
+• Personal blogging platform  
+• Responsive UI  
+• Clean design  
+• Built using HTML, CSS & JavaScript  
+• Status: Live on Netlify  
+
+---
+
+### 🎓 College Chatbot System
+• Student Q&A automation system  
+• PHP + MySQL backend  
+• College-wise reply feature  
+• Admin panel support  
+• Status: Development in progress 
 
 ---
 
